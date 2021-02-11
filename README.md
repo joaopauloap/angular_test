@@ -6,14 +6,14 @@ Projeto base para o angular-cli-ghpages
 
 Comandos utilizados para criar o projeto
 
-`git clone https://github.com/joaopauloap/angulartest.git
-cd angulartest
-ng new angulartest --directory ./
-ng add angular-cli-ghpages
-git add .
-git commit -m "commit"
-git push origin main
-ng deploy --base-href=angulartest`
+`git clone https://github.com/joaopauloap/angulartest.git`
+`cd angulartest`
+`ng new angulartest --directory ./`
+`ng add angular-cli-ghpages`
+`git add .`
+`git commit -m "commit"`
+`git push origin main`
+`ng deploy --base-href=angulartest`
 
 ## GitHub Pages
 
